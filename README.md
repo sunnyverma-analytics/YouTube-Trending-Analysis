@@ -14,9 +14,9 @@ The analysis combines **data cleaning, SQL querying, exploratory data analysis (
 
 # 📸 Dashboard Preview
 
-> Replace the image below with your dashboard screenshot after uploading it.
 
-![Power BI Dashboard](Images/dashboard.png)
+
+![Youtube Trending Analysis](youtube_trending_analysis_screenshot.png)
 
 ---
 
